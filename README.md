@@ -3,7 +3,7 @@ If you're new to Bug Bounty Hunting and Cyber Security, it can be difficult to k
 
 ======================================================================================================================================================
 
-I'm also starting in bug hunting so far below are the resources I've found, I hope it helps:
+I'm also just starting in bug hunting, so far below are the resources I've found, I hope this might be useful to everyone : )
 
 If you're new to web security, it can be difficult to know where to begin. That's why we've created this suggested learning path to point you in the right direction. We recommend completing the labs as you go, but don't be afraid to move on to the next topic if you get stuck. You can go back to the more challenging labs once you've developed your skills further.
 
