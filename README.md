@@ -1,3 +1,5 @@
+https://d23vnjd1yg7tth.cloudfront.net/wp-content/uploads/2019/11/How-To-Get-Started-as-a-Bug-Bounty-Hunter-768x432.jpg
+
 # Beginners-Guide-to-Bug-Bounty-Hunting-
 If you're new to Bug Bounty Hunting and Cyber Security, it can be difficult to know where to begin. That's why I created this repository to give you an ideas and resources on where to start:)
 
