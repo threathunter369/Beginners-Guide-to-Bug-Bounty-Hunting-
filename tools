@@ -17,3 +17,25 @@ Subjack   -   Subjack is a Subdomain Takeover tool written in Go designed to sca
                With Go's speed and efficiency, this tool really stands out when it comes to mass-testing. 
                Always double check the results manually to rule out false positives.
                https://github.com/haccer/subjack
+
+Feroxbuster -  A simple, fast, recursive content discovery tool written in Rust.
+               https://github.com/epi052/feroxbuster
+
+
+Gobuster    - Gobuster is a tool used to brute-force:
+
+               URIs (directories and files) in web sites.
+               DNS subdomains (with wildcard support).
+               Virtual Host names on target web servers.
+               Open Amazon S3 buckets
+               Open Google Cloud buckets
+               TFTP servers
+               https://github.com/OJ/gobuster
+
+Knockpy      - Knockpy is a portable and modular python3 tool designed to quickly enumerate subdomains on a target domain through passive reconnaissance and dictionary scan.
+               https://github.com/guelfoweb/knock
+
+Httpx        - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library. It is designed to maintain result reliability 
+               with an increased number of threads.
+               https://github.com/projectdiscovery/httpx
+                
