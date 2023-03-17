@@ -93,7 +93,6 @@ When performing security testing against an asset, it is vital to have high qual
 
 https://wordlists.assetnote.io/ 
 
-==============================>
 
 **The Bug Hunter's Methodology - Application Analysis | Jason Haddix**
 
