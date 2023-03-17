@@ -1,0 +1,19 @@
+
+Reconnaissance:
+
+
+SubDomain Enumerations Tools:
+
+Assetfinder - Find domains and subdomains potentially related to a given domain. 
+              https://github.com/tomnomnom/assetfinder
+
+Subfinder  -  subfinder is a subdomain discovery tool that returns valid subdomains for websites, using passive online sources. 
+              It has a simple, modular architecture and is optimized for speed. subfinder is built for doing one thing only - passive subdomain enumeration, 
+              and it does that very well.
+              https://github.com/projectdiscovery/subfinder
+              
+
+Subjack   -   Subjack is a Subdomain Takeover tool written in Go designed to scan a list of subdomains concurrently and identify ones that are able to be hijacked. 
+               With Go's speed and efficiency, this tool really stands out when it comes to mass-testing. 
+               Always double check the results manually to rule out false positives.
+               https://github.com/haccer/subjack
