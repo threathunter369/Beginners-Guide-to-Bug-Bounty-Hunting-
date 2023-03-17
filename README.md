@@ -74,6 +74,8 @@ https://cheatsheetseries.owasp.org/IndexTopTen.html
 
 https://github.com/randorisec/MobileHackingCheatSheet
 
+**One of th Best Wordlists Today: )**
+
 A list of useful payloads and bypasses for Web Application Security. Feel free to improve with your payloads and techniques !
 I ❤️ pull requests 🙂
 
@@ -85,13 +87,13 @@ This project is maintained by Daniel Miessler, Jason Haddix, and g0tmi1k.
 
 https://github.com/danielmiessler/SecLists
 
-**One of th Best Wordlists Today: )**
-
 Welcome to Assetnote Wordlists.
 
 When performing security testing against an asset, it is vital to have high quality wordlists for content and subdomain discovery. This website provides you with wordlists that are up to date and effective against the most popular technologies on the internet.
 
 https://wordlists.assetnote.io/ 
+
+==============================>
 
 **The Bug Hunter's Methodology - Application Analysis | Jason Haddix**
 
