@@ -50,6 +50,8 @@ https://pentestbook.six2dez.com/others/web-checklist
 
 This challenge is Inon Shkedy's 31 days API Security Tips
 
+https://github.com/inonshk/31-days-of-API-Security-Tips
+
 The largest open-source database for detecting secrets, API keys, passwords, tokens, and more. Use secrets-patterns-db to feed your secret scanning engine with regex patterns for identifying secrets.
 
 https://github.com/mazen160/secrets-patterns-db
