@@ -44,6 +44,8 @@ https://book.hacktricks.xyz/network-services-pentesting/pentesting-web
 In every Web Pentest, there are several hidden and obvious places that might be vulnerable. This post is meant to be a checklist to confirm that you have searched for vulnerabilities in all the possible places.
 
 https://book.hacktricks.xyz/pentesting-web/web-vulnerabilities-methodology
+username:test
+password:test123!@
 
 Pentesting Web checklist
 
